@@ -1,7 +1,7 @@
 # MyTaskManagement-app
-## Criação de um aplicativo para gerenciamento de tarefas, inicialmente em Java.
+### Criação de um aplicativo para gerenciamento de tarefas, inicialmente em Java.
 
-### A ideia é que o programa seja criado para rodar em sistema Android.
+A ideia é que o programa seja criado para rodar em sistema Android.
 
 Hoje (18/05/2023), concluí a primeira parte do programa em Java, utilizando o IntelliJ IDEA.
 * Consigo adicionar uma tarefa;
